@@ -1,0 +1,1 @@
+export { default } from 'ember-datamaps/components/datamap-picker/component';
